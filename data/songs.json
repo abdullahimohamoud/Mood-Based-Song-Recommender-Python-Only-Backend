@@ -1,0 +1,30 @@
+{
+  "happy": [
+    {"title": "Happy - Pharrell Williams", "url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs"},
+    {"title": "Best Day of My Life - American Authors", "url": "https://www.youtube.com/watch?v=Y66j_BUCBMY"},
+    {"title": "Can't Stop the Feeling - Justin Timberlake", "url": "https://www.youtube.com/watch?v=ru0K8uYEZWw"},
+    {"title": "Good Life - OneRepublic", "url": "https://www.youtube.com/watch?v=jZhQOvvV45w"},
+    {"title": "Uptown Funk - Mark Ronson ft. Bruno Mars", "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"}
+  ],
+  "sad": [
+    {"title": "Fix You - Coldplay", "url": "https://www.youtube.com/watch?v=k4V3Mo61fJM"},
+    {"title": "Someone Like You - Adele", "url": "https://www.youtube.com/watch?v=hLQl3WQQoQ0"},
+    {"title": "Let Her Go - Passenger", "url": "https://www.youtube.com/watch?v=RBumgq5yVrA"},
+    {"title": "Say Something - A Great Big World", "url": "https://www.youtube.com/watch?v=-2U0Ivkn2Ds"},
+    {"title": "All I Want - Kodaline", "url": "https://www.youtube.com/watch?v=mtf7hC17IBM"}
+  ],
+  "calm": [
+    {"title": "Weightless - Marconi Union", "url": "https://www.youtube.com/watch?v=UfcAVejslrU"},
+    {"title": "River Flows in You - Yiruma", "url": "https://www.youtube.com/watch?v=7maJOI3QMu0"},
+    {"title": "Bloom - ODESZA", "url": "https://www.youtube.com/watch?v=Gz2GVlQkn4Q"},
+    {"title": "Holocene - Bon Iver", "url": "https://www.youtube.com/watch?v=TWcyIpul8OE"},
+    {"title": "Sunset Lover - Petit Biscuit", "url": "https://www.youtube.com/watch?v=4DLoL4fH1O4"}
+  ],
+  "focused": [
+    {"title": "Time - Hans Zimmer", "url": "https://www.youtube.com/watch?v=RxabLA7UQ9k"},
+    {"title": "Intro - The xx", "url": "https://www.youtube.com/watch?v=-U6wvdDI6UA"},
+    {"title": "Experience - Ludovico Einaudi", "url": "https://www.youtube.com/watch?v=91sflQwYv5Q"},
+    {"title": "First Breath After Coma - Explosions in the Sky", "url": "https://www.youtube.com/watch?v=JzIK5FaC38w"},
+    {"title": "Saturn - Sleeping at Last", "url": "https://www.youtube.com/watch?v=doiL3vQbQKk"}
+  ]
+}
